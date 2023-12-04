@@ -1,0 +1,23 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abjj1999/gym.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abjj1999/gym/issues"
+  },
+  "homepage": "https://github.com/abjj1999/gym#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
